@@ -3,7 +3,7 @@ Gender Classification with 7 models Accuracy: %97
 use "Gender Classification Dataset", predict male or female from some variables. We'll use some kind of different classification algorithms.
 
 Content Table:
-**Import Data
+Import Data
 
 1.Exploratory Data Analysis (EDA)
 2.Creating Classification Models
@@ -15,4 +15,4 @@ Content Table:
 8.Decision Tree Classification
 9.Random Forest Classification
 
-Conclusion**
+Conclusion
