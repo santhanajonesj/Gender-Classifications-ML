@@ -4,13 +4,13 @@ use "Gender Classification Dataset", predict male or female from some variables.
 
 Content Table:
 **Import Data
-Exploratory Data Analysis (EDA)
-Creating Classification Models
-Train Test Split
-Logistic Regression
-KNN algorithm
-Naive Bayes
-SVM Algorithm
-Decision Tree Classification
-Random Forest Classification
+1.Exploratory Data Analysis (EDA)
+2.Creating Classification Models
+3.Train Test Split
+4.Logistic Regression
+5.KNN algorithm
+6.Naive Bayes
+7.SVM Algorithm
+8.Decision Tree Classification
+9.Random Forest Classification
 Conclusion**
